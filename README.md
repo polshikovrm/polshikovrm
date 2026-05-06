@@ -13,4 +13,4 @@ Lead of the **Sigmalion Anti-Crisis Squad**. I orchestrate technical strategy an
 - **Leadership:** 14+ years of building and rescuing enterprise systems.
 
 ### 📊 Activity
-![Roman's Stats](https://github-readme-stats.vercel.app/api?username=polshikovrm&show_icons=true&theme=merko)
+![Roman's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=polshikovrm&show_icons=true&theme=merko)

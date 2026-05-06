@@ -1,16 +1,16 @@
-## Hi there 👋
+# Roman Polshchykov | Senior Full-Stack Architect 🏛
 
-<!--
-**polshikovrm/polshikovrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead of the **Sigmalion Anti-Crisis Squad**. I orchestrate technical strategy and high-level architectural transitions.
 
-Here are some ideas to get you started:
+### 🏛 Strategic Leadership
+* **Architectural Evolution:** Leading transitions from legacy React to modern **Next.js** environments.
+* **Quality Control:** Overseeing code integrity and establishing rigorous development standards.
+* **Search & Infra:** Optimizing **Typesense/MeiliSearch** and managing cloud infrastructure migrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Core:** Node.js, TypeScript, Next.js, AI Orchestration
+- **DevOps:** Docker, ESM modules, Technical Strategy
+- **Leadership:** 14+ years of building and rescuing enterprise systems.
+
+### 📊 Activity
+![Roman's Stats](https://github-readme-stats.vercel.app/api?username=polshikovrm&show_icons=true&theme=merko)
